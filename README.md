@@ -1,5 +1,4 @@
 - 👋 Hey!, This is Priyansh Diwan!
-- 👀 I’m interested in Spacing Celestial bodies using algorithms
 - 📫 How to reach me:
 - Email:priyanshdiwan2@gmail.com
 - Linkedin:https://www.linkedin.com/in/priyansh-diwan-445497221/
